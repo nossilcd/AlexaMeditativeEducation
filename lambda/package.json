@@ -1,12 +1,12 @@
 {
-  "name": "intro-to-alexa-conversations",
-  "version": "1.1.0",
-  "description": "Simple Alexa Conversations example that records a color in the session and retreives it in the same session",
+  "name": "meditative-education",
+  "version": "1.0.0",
+  "description": "Plays latest meditations and thoughts for people interested in learning meditation",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Amazon Alexa",
+  "author": "Navila",
   "license": "ASL",
   "dependencies": {
     "ask-sdk-core": "^2.6.0",
